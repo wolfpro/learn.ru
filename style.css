@@ -1,0 +1,41 @@
+body {
+    background: white;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+a {
+    color: maroon;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+.a1:hover {
+    color: maroon;
+    text-decoration: none;
+}
+
+.descriptor {
+    border: 5px solid maroon;
+    text-align: center;
+    padding: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+footer {}
